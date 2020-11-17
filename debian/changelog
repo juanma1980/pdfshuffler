@@ -1,3 +1,9 @@
+pdfshuffler (0.7.0~git20151023.68dccc5-lliurex2.1) bionic; urgency=medium
+
+  * Add 64x64 icon
+
+ -- Juanma1980 <juanma1980@gmail.com>  Tue, 17 Nov 2020 09:20:06 +0100
+
 pdfshuffler (0.7.0~git20151023.68dccc5-lliurex2) bionic; urgency=medium
 
   * Bionic release
